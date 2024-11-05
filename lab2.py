@@ -1,5 +1,9 @@
-#this is the image_analysys.py file page
+#this is the image.env file page
 
+AI_SERVICE_ENDPOINT="https://scgdytiukb.cognitiveservices.azure.com/"
+AI_SERVICE_KEY="CPUP6sPd4wWqEK2ccgukbhvcgXtwj380LF3oUyRc6tdtryuydfyhlvAoJQQJ99jKACYeBjFXJ3w3hguACOGg79G"
+
+#this is the image_analysys.py file page
 from dotenv import load_dotenv
 import os
 from PIL import Image, ImageDraw
