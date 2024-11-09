@@ -1,3 +1,7 @@
+AI_SERVICE_ENDPOINT='https://xxxxxazu.cognitivervices.azure.com/'
+AI_SERVICE_KEY='DcccvvvbbxxxEFnNrPjRy3o0urZ3xxxx73d8prTm4oxrXl78Bxxxxx9AKACYcccccJ3ccAACOGqFUd' 
+
+
 #This is a code for the rest_client page
 
 from dotenv import load_dotenv
